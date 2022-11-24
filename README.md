@@ -1,2 +1,1 @@
-# enphase_scripts
-Enphase Scripts
+# Enphase Scripts
